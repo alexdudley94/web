@@ -4,6 +4,9 @@
 @import 'foundation';
 @import 'motion-ui';
 
+body{
+    background-color: black;
+}
 @include foundation-global-styles;
 @include foundation-grid;
 // @include foundation-flex-grid;
